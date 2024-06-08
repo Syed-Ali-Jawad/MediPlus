@@ -5,8 +5,8 @@ module.exports = {
     extend: {
       backgroundImage: {
         "intro-bg": "url('../build/img/xbg_3.png')",
-        "about-bg": "url('../build/img/xbg_2.png')",
-        "footer-bg": "url('../build/img/stethosocpe bg.jpg')",
+        "about-bg": "url('build/img/xbg_2.png')",
+        "footer-bg": "url('build/img/stethosocpe bg.jpg')",
       },
       screens: {
         md: { max: "767px" },
